@@ -1,0 +1,15 @@
+C:\Users\USUARIO\OneDrive\Documentos\ifro\lógica de programação\programas\termometricas\termometricas\bin\Debug\net6.0\termometricas.exe
+C:\Users\USUARIO\OneDrive\Documentos\ifro\lógica de programação\programas\termometricas\termometricas\bin\Debug\net6.0\termometricas.deps.json
+C:\Users\USUARIO\OneDrive\Documentos\ifro\lógica de programação\programas\termometricas\termometricas\bin\Debug\net6.0\termometricas.runtimeconfig.json
+C:\Users\USUARIO\OneDrive\Documentos\ifro\lógica de programação\programas\termometricas\termometricas\bin\Debug\net6.0\termometricas.dll
+C:\Users\USUARIO\OneDrive\Documentos\ifro\lógica de programação\programas\termometricas\termometricas\bin\Debug\net6.0\termometricas.pdb
+C:\Users\USUARIO\OneDrive\Documentos\ifro\lógica de programação\programas\termometricas\termometricas\obj\Debug\net6.0\termometricas.csproj.AssemblyReference.cache
+C:\Users\USUARIO\OneDrive\Documentos\ifro\lógica de programação\programas\termometricas\termometricas\obj\Debug\net6.0\termometricas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\OneDrive\Documentos\ifro\lógica de programação\programas\termometricas\termometricas\obj\Debug\net6.0\termometricas.AssemblyInfoInputs.cache
+C:\Users\USUARIO\OneDrive\Documentos\ifro\lógica de programação\programas\termometricas\termometricas\obj\Debug\net6.0\termometricas.AssemblyInfo.cs
+C:\Users\USUARIO\OneDrive\Documentos\ifro\lógica de programação\programas\termometricas\termometricas\obj\Debug\net6.0\termometricas.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\OneDrive\Documentos\ifro\lógica de programação\programas\termometricas\termometricas\obj\Debug\net6.0\termometricas.dll
+C:\Users\USUARIO\OneDrive\Documentos\ifro\lógica de programação\programas\termometricas\termometricas\obj\Debug\net6.0\refint\termometricas.dll
+C:\Users\USUARIO\OneDrive\Documentos\ifro\lógica de programação\programas\termometricas\termometricas\obj\Debug\net6.0\termometricas.pdb
+C:\Users\USUARIO\OneDrive\Documentos\ifro\lógica de programação\programas\termometricas\termometricas\obj\Debug\net6.0\termometricas.genruntimeconfig.cache
+C:\Users\USUARIO\OneDrive\Documentos\ifro\lógica de programação\programas\termometricas\termometricas\obj\Debug\net6.0\ref\termometricas.dll
