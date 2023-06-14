@@ -2,6 +2,7 @@
 
 class temperaturas
 {
+    // 2 versão
     static void Main(string[] args)
     {
         Console.WriteLine("Escolha o que você quer converter:");
